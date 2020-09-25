@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 :office: By career  - I am currently an Algorithm Research Engineer focusing on the computational mathematics present in Machine Learning and Computer Vision
 
-:zap: Yet, By passion - I am just a person that enjoys spending my day-to-day tackling modern novel problems as well as encouraging those around me to share in my love for mathematics and computers
+:zap: Yet, By passion - I am just a person that enjoys spending my day-to-day tackling modern novel problems while encouraging those around me to share in my love for mathematics and computers
