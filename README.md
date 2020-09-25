@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 :exclamation: Yet, By passion - I am just a guy who enjoys spending my day-to-day tackling modern novel problems, playing Dungeons and Dragons, and if it's welcomed by others, encouraging and teaching those around me to share in my fascination with computing
 
-## My go-to tools
+## My go-to's
+C++, Matlab, Python
 
 
 ## What's up with Tanner
