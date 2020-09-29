@@ -31,4 +31,3 @@ Libraries/Platforms/APIs: CUDA, MPI, OpenMP, GSL, IntelMKL, Tensorflow, PyTorch
 - 🔭 Outside of work, I’m currently working on **three separate passion projects that are currently centered around Stochastic Programming** 
 - 🌱 I’m currently learning **Nonlinear Programming and Flow Network Optimization Theory**
 - 💬 Ask me about **my dog Mini!** (But get ready for an earful of me telling you about how awesome she is)
-- ⚡ Fun fact: **In DnD, I am usually the DM. But on the off-chance I am a player, you can catch me playing an artificer or a monk**
