@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 :office: By career - I am currently an Algorithm Research Engineer focusing on the numerical algorithms present in machine learning and computer vision
 
-:exclamation: Yet, By passion - I am just a guy who enjoys spending my day-to-day tackling modern novel problems, playing Dungeons and Dragons, and if it's welcomed by others, encouraging and teaching those around me to share in my fascination with computing
+:exclamation: Yet, By passion - I am just a guy who enjoys spending his day-to-day tackling modern novel problems, playing Dungeons and Dragons, and if it's welcomed by others, encouraging and teaching those around me to share in my fascination with computing
 
 ## My go-to's
 Languages: C++, Matlab, Python
