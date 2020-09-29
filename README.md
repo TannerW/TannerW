@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ## My go-to's
 Languages: C++, Matlab, Python
 
-Libraries/Platforms/APIs: CUDA, MPI, OpenMP, GSL, IntelMKL, Tensorflow, PyTorch
+Libraries/Platforms/APIs: CUDA, OpenMP/MPI, GSL, IntelMKL, Tensorflow, PyTorch
 
 ## What's up with Tanner
 
