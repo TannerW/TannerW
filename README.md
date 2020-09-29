@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 :mortar_board: By education - I am a Computational Engineer and Scientist with emphasis and published works in computational linear algebra and its applications
 
-:office: By career - I am currently an Algorithm Research Engineer focusing on the computational mathematics present in machine learning and computer vision
+:office: By career - I am currently an Algorithm Research Engineer focusing on the numerical algorithms present in machine learning and computer vision
 
 :exclamation: Yet, By passion - I am just a guy who enjoys spending my day-to-day tackling modern novel problems, playing Dungeons and Dragons, and if it's welcomed by others, encouraging and teaching those around me to share in my fascination with computing
 
 ## My go-to's
-C++, Matlab, Python
-
+Languages: C++, Matlab, Python
+Platforms/Libraries/APIs: CUDA, MPI, OpenMP, GSL, IntelMKL, Tensorflow, PyTorch
 
 ## What's up with Tanner
 
