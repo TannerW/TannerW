@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:mortar_board: By education - I am a Computational Engineer and Scientist with emphasis and published works in computational linear algebra and its applications
+:mortar_board: By education - I am a Computational Science Engineer with emphasis and published works in computational linear algebra and its applications
 
 :office: By career - I am currently an Algorithm Research Engineer focusing on the research and development of numerical algorithms for applications in machine learning and computer vision
 
