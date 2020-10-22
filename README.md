@@ -28,6 +28,6 @@ Libraries/Platforms/APIs: CUDA, OpenMP/MPI, GSL, IntelMKL, Tensorflow, PyTorch
 
 ## What's up with Tanner
 
-- 🔭 Outside of work, I’m currently working on **three separate passion projects that are currently centered around Stochastic Programming** 
-- 🌱 I’m currently learning **Nonlinear Programming and Flow Network Optimization Theory**
-- 💬 Ask me about **my dog Mini!** (But get ready for an earful of me telling you about how awesome she is)
+- 🔭 Outside of work, I’m currently working on **some passion projects that are currently centered around Stochastic Programming, Dynamized Graph Traversal, and Dynamized Graph Analytics** 
+- 🌱 I’m currently learning **state-of-the-art methods for handling the storing and traversal of dynamic time-dependent graphs for heterogeneous computing target platforms**
+- 💬 Ask me about **my dog Mini!** (But get ready for an earful of me telling you about how awesome she is... this may include, but is not limited to, me sending you links to photo albums to prove her cuteness)
