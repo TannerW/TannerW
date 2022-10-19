@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :mortar_board: By education - I am a Computational Science Engineer with emphasis and published works in computational linear algebra and its applications.
 
-:office: By career - I am an Algorithm Research Engineer with focus in the research and development of numerical algorithms for applications in computational sciences, machine learning, computer vision, signal processing, and data science. Currently, I am working full time in algorithm R&D for applications in graph data science!
+:office: By career - I am an Algorithm Research Engineer whose worked in the research and development of numerical algorithms for applications in computational sciences, machine learning, computer vision, signal processing, and data science. Currently, I am working full time in algorithm R&D for applications in graph data science!
 
 :exclamation: Yet, By passion - I am just a guy who enjoys spending my day-to-day tackling modern novel problems, playing Dungeons and Dragons, and if it's welcomed by others, encouraging and teaching those around me to share in my fascination with computing!
 
